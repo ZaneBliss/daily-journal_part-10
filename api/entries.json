@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "date": "2020-04-14",
+      "concepts": "Figma and wireframing, navigation, communication",
+      "entry": "We learned a lot about design.",
+      "mood": "🙂"
+    },
+    {
+      "id": 2,
+      "date": "2020-04-15",
+      "concepts": "Team collaboration and working on Sprint 1.",
+      "entry": "We work together great as a team!",
+      "mood": "🙂"
+    },
+    {
+      "id": 3,
+      "date": "2020-04-16",
+      "concepts": "Presenting, introduction to JS",
+      "entry": "There was a lot of information, but I am feeling comfortable with the exercises.",
+      "mood": "🙂"
+    },
+    {
+      "id": 4,
+      "date": "2020-04-17",
+      "concepts": "Datatypes, objects, DOM",
+      "entry": "This was a little challenging, but I am excited about manipulating HTML elements using the DOM.",
+      "mood": "🙂"
+    },
+    {
+      "date": "2001-01-01",
+      "concepts": "hidad",
+      "entry": "hidad",
+      "mood": "🙂",
+      "id": 5
+    },
+    {
+      "date": "0990-03-05",
+      "concepts": "s09234093",
+      "content": "2304923094",
+      "mood": "😐",
+      "id": 6
+    }
+  ]
+}
